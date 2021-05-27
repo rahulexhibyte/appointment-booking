@@ -1,0 +1,48 @@
+.schedule-form {
+  width: 60vw;
+}
+
+.schedule-inputs {
+  border: none;
+  outline: none;
+  margin: 1rem 1rem;
+  background-color: #ececec;
+  padding: 5px 1rem;
+}
+
+.next-btn {
+  border: none;
+  outline: none;
+  padding: 6px 1rem;
+  min-width: 100px;
+  max-width: 100px;
+  background-color: rgb(50, 173, 255);
+  color: white;
+  font-weight: bold;
+  border-radius: 7px;
+  cursor: pointer;
+}
+
+.info-step {
+  margin: 1rem;
+  width: 50%;
+}
+
+/* .step-1-class {
+  display: flex;
+  flex-direction: column;
+
+} */
+
+.timeslot-radio-grp {
+  margin: 1rem;
+}
+
+.schedule-txt {
+  font-size: 1.2rem;
+}
+
+.schedule-txt > span {
+  font-weight: bold;
+  color: rgb(45, 178, 255);
+}

@@ -1,0 +1,11 @@
+.schedule-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.appointment-txt {
+  font-size: 1.5rem;
+  margin: 2rem;
+}

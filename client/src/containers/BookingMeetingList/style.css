@@ -1,0 +1,20 @@
+.btn {
+  padding: 5px 1rem;
+  outline: none;
+  border: none;
+  background-color: green;
+  margin-left: 5px;
+  margin-right: 5px;
+  color: white;
+  font-weight: bold;
+  border-radius: 1rem;
+  cursor: pointer;
+}
+
+.acceptt-btn {
+  background-color: #00cc00;
+}
+
+.reject-btn {
+  background-color: #cc0000;
+}
